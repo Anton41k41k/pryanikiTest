@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Anton41k41k/pryanikiTest",
+  "homepage": "https://anton41k41k.github.io/pryanikiTest/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
