@@ -41,7 +41,7 @@ export default function DeleteButton({
           <DeleteIcon fontSize="large" />
         </IconButton>
       )}
-      {isPending && <CircularProgress />}
+      {isPending && <CircularProgress size="large" />}
     </Fragment>
   );
 }
